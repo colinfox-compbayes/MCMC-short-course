@@ -12,8 +12,9 @@ The main course document is:
 The practical computing components are organized by session. The code is a mix of **Python** and legacy **MATLAB**:
 
 * **`Compute1/`** to **`Compute4/`**: Progressive computing lab exercises, files, and solution scripts.
-* **`Resources/`**: Extra documents -- the 2016 version of "Inverse Provblems" lecture notes by Fox, Tan, and Nicholls,
-                                    -- Some excellent notes on the theory and practice of MCMC by Gareth Roberts.
+* **`Resources/`**: Extra documents:
+    * The 2016 version of "Inverse Problems" lecture notes by Fox, Tan, and Nicholls.
+    * Some excellent notes on the theory and practice of MCMC by Gareth Roberts.
 
 ## 🚀 Getting Started
 To get these files onto your local computer, clone the repository using Git:
