@@ -13,7 +13,7 @@ The practical computing components are organized by session. The code is a mix o
 
 * **`Compute1/`** to **`Compute4/`**: Progressive computing lab exercises, files, and solution scripts.
 * **`Resources/`**: Extra documents:
-    * The 2016 version of "Inverse Problems" lecture notes by Fox, Tan, and Nicholls.
+    * The 2016 version of "Inverse Problems" lecture notes by Fox, Nicholls, and Tan.
     * Some excellent notes on the theory and practice of MCMC by Gareth Roberts.
 
 ## 🚀 Getting Started
