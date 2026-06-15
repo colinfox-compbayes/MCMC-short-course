@@ -6,7 +6,7 @@ This repository contains the course notes and computational exercises, plus solu
 
 ## 📚 Course Overview
 The main course document is:
-* **`HeidelbergBlokkurs.pdf`**: Course notes and lectures, plus compute assignments.
+* **`HeidelbergBlokkurs.pdf`**: Course notes organized as multi-hour lectures, plus compute assignments.
 
 ## 💻 Code & Exercises
 The practical computing components are organized by session. The code is a mix of **Python** and legacy **MATLAB**:
