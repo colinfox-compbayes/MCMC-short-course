@@ -1,6 +1,6 @@
 # MCMC Short Course
 
-Welcome to the materials for the Markov Chain Monte Carlo (MCMC) boot-camp: "BLOKKURS on Computing MCMC for Inverse Problems". 
+You have discovered the materials for my Markov Chain Monte Carlo (MCMC) boot-camp: "BLOKKURS on Computing MCMC for Inverse Problems". 
 This repository contains the course notes and computational exercises, plus solutions.
 (Credit: solutions by Colin Fox (plain Python or old MatLab), or nice Python from Feb 2026 by Hannah Srzich or Stella Srzich)
 
@@ -9,12 +9,12 @@ The main course document is:
 * **`HeidelbergBlokkurs.pdf`**: Course notes organized as multi-hour lectures, plus compute assignments.
 
 ## 💻 Code & Exercises
-The practical computing components are organized by session. The code is a mix of **Python** and legacy **MATLAB**:
+The practical computing components are organized by lecture. This version is in **Python** though legacy **MATLAB** is also provided.
 
-* **`Compute1/`** to **`Compute4/`**: Progressive computing lab exercises, files, and solution scripts.
-* **`Resources/`**: Extra documents:
+* **`Compute1/`** to **`Compute4/`**: Progressive computing exercises, support files, and solution scripts (no cheating).
+* **`Resources/`**: Some documents covering background and theory:
     * The 2016 version of "Inverse Problems" lecture notes by Fox, Nicholls, and Tan.
-    * Some excellent notes on the theory and practice of MCMC by Gareth Roberts.
+    * Very nice notes on Statistical Inference by Gareth Roberts with useful statements of basic MCMC methods and theorems.
 
 ## 🚀 Getting Started
 To get these files onto your local computer, clone the repository using Git:
