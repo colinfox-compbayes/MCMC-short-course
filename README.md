@@ -2,7 +2,7 @@
 
 You have discovered the materials for my Markov Chain Monte Carlo (MCMC) boot-camp: "BLOKKURS on Computing MCMC for Inverse Problems". 
 This repository contains the course notes and computational exercises, plus solutions.
-(Credit: solutions by Colin Fox (plain Python or old MatLab), or nice Python from Feb 2026 by Hannah Srzich or Stella Srzich)
+(Credit: solutions by Colin Fox (plain Python or old MatLab), or nice Python by Hannah Srzich and Stella Srzich from Feb 2026.)
 
 ## 📚 Course Overview
 The main course document is:
