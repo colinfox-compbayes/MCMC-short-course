@@ -7,7 +7,7 @@ This repository contains the course notes and computational exercises, plus solu
 ## 📚 Course Overview
 The main course document is:
 * **`HeidelbergBlokkurs.pdf`**: Course notes organized as multi-hour lectures, plus compute assignments.
-* The main document is compiled and ready to read. You can access it directly here:
+* You can access it directly here:
 👉 **[Download HeidelbergBlokkurs.pdf](./HeidelbergBlokkurs.pdf)**
 
 ## ⚖️ License
