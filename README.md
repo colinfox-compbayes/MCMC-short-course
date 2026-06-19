@@ -7,6 +7,18 @@ This repository contains the course notes and computational exercises, plus solu
 ## 📚 Course Overview
 The main course document is:
 * **`HeidelbergBlokkurs.pdf`**: Course notes organized as multi-hour lectures, plus compute assignments.
+* The main document is compiled and ready to read. You can access it directly here:
+👉 **[Download HeidelbergBlokkurs.pdf](./HeidelbergBlokkurs.pdf)**
+
+## ⚖️ License
+This project and the accompanying `HeidelbergBlokkurs.pdf` document are licensed under the **Creative Commons Attribution-ShareAlike 4.0 International License (CC BY-SA 4.0)**.
+
+* **Free to Share:** You are free to copy and redistribute the material in any medium or format.
+* **Free to Adapt:** You can remix, transform, and build upon the material for any purpose.
+* **Attribution:** You must give appropriate credit, provide a link to the license, and indicate if changes were made.
+* **ShareAlike:** If you remix, transform, or build upon the material, you must distribute your contributions under the same license as the original.
+
+For full legal terms, please read the [LICENSE](./LICENSE.txt) file.
 
 ## 💻 Code & Exercises
 The practical computing components are organized by lecture. This version is in **Python** though legacy **MATLAB** is also provided.
